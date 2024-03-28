@@ -1,0 +1,22 @@
+body
+{
+ background-color: aqua;
+}
+
+#score
+{
+    font-size:large;
+    margin-left: 15px;
+}
+
+#timer
+{
+    font-size: large;
+    float:right;
+    margin-right: 15px;
+}
+
+#sketch_to_be_drawn
+{
+   color: blueviolet;
+}
